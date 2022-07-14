@@ -1,5 +1,5 @@
 # Desafio Projeto GitHub DIO
-desafio de projeto
+Repósitório criado para o desafio de projeto
 
 ##Link Uteis
 [Guia de Markdown](https://www.markdownguide.org/)
